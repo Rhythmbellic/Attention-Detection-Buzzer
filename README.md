@@ -41,19 +41,18 @@ We will use the following steps to build a model:
 6. After training, you can test your model using the built-in testing interface to see how well it recognizes new examples.
 7. Once satisfied with the performance, export your model. Teachable Machines provides options to export models for TensorFlow.js, TensorFlow Lite, or as a link to use in your projects.
 
-[Link to video](https://youtu.be/2s-5jybdaEo)
-
 ## Making Arduino Sketch
 
 After making the model, our next step will be writing an Arduino script for our Arduino Uno which can take serial commands and move motors accordingly.
-
-[Code Explanation](https://www.youtube.com/watch?v=0Mvs2co8m9A&ab_channel=RhythmBellic)
 
 ## Writing Python Script
 
 Now our next step is making a Python script. Below is the script and its explanations:
 
-[Explanation](https://www.youtube.com/watch?v=HEv4vRCBzKs&ab_channel=RhythmBellic)
+
+![Screenshot 2024-07-02 035731](https://github.com/Rhythmbellic/Attention-Detection-Buzzer/assets/92723976/d0539d3e-32a6-427c-86d9-d6aed60c46b5)
+
+
 
 ## Collecting & Assembling Hardware
 
@@ -72,11 +71,14 @@ Now our next step is making a Python script. Below is the script and its explana
 
 ## Loading The Code to Arduino & Testing
 
+
 Now all the important parts are done. Just connect the cable to Arduino and load the Arduino sketch into the Uno, then start the Python script and test.
 
-[Testing Video](https://www.youtube.com/watch?v=r6zw8GNg128&ab_channel=RhythmBellic)
 
-[Testing Video with Buzzer Sound](https://www.youtube.com/shorts/gPySya1gCk0)
+https://github.com/Rhythmbellic/Attention-Detection-Buzzer/assets/92723976/90e1d666-5274-4f88-8715-b97e5197087b
+
+
+
 
 ## Conclusion
 
